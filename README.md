@@ -19,14 +19,17 @@ ML techniques span supervised learning, reinforcement learning, and deep learnin
 # Repository Structure
 Seminar_AI_in_Software_Testing/
 ├── artifacts/
-│   ├── searchlog.md                           
-│   ├── connectedpapers1.jpg                   
-│   ├── connectedpapers2.jpg                  
-│   └── Prompts_evidences_seminar.pdf         
+│   ├── searchlog.md
+│   ├── connectedpapers_graph.png
+│   ├── search_results_google_scholar.png
+│   ├── search_results_ieee.png
+│   ├── search_results_acm.png
+│   ├── extraction_table.pdf
+│   └── prompts_and_evidence.pdf
 ├── corpus/
-│   └── references.md                          
+│   └── references.md
 ├── slides/
-│   └── Seminar_ppt_final_presentation.pdf    
+│   └── Seminar_Presentation.pdf
 └── README.md
 
 # Methodology
