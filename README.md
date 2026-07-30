@@ -31,7 +31,20 @@ Seminar_AI_in_Software_Testing/
 ├── slides/
 │   └── Seminar_Presentation.pdf
 └── README.md
-
+Seminar_AI_Software_Testing/
+├── slides/
+│   └── Seminar_Presentation.pdf
+├── artifacts/
+│   ├── searchlog.md
+│   ├── connectedpapers_graph.png
+│   ├── search_results_google_scholar.png
+│   ├── search_results_ieee.png
+│   ├── search_results_acm.png
+│   ├── extraction_table.pdf
+│   └── prompts_and_evidence.pdf
+├── corpus/
+│   └── references.md
+└── README.md
 # Methodology
 
 Semi-systematic (narrative) literature review following Snyder (2019). Relevant studies were identified through keyword searches in Google Scholar, ACM Digital Library, IEEE Xplore, and SpringerLink, followed by backward and forward citation snowballing using Connected Papers. The review process followed the reporting recommendations of van Wee & Banister (2024). Data were extracted and synthesized using thematic analysis. Final corpus: 7 peer-reviewed studies.
