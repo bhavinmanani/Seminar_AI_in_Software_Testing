@@ -17,6 +17,7 @@ Software testing is the largest quality-assurance cost in modern development. Un
 ML techniques span supervised learning, reinforcement learning, and deep learning, each applied to different testing tasks (generation, prioritization, oracle construction). Gains vary by context, dataset, and training strategy — no single answer covers all cases.
 
 # Repository Structure
+```text
 Seminar_AI_in_Software_Testing/
 ├── artifacts/
 │   ├── searchlog.md
@@ -31,6 +32,7 @@ Seminar_AI_in_Software_Testing/
 ├── slides/
 │   └── Seminar_Presentation.pdf
 └── README.md
+```
 
 # Methodology
 
@@ -67,7 +69,7 @@ Screenshots stored in artifacts/ document the search results and citation graph 
 
 # Answering the RQ
 
-# How ML is applied:
+## How ML is applied:
 Reinforcement learning (Q-learning, actor-critic) automates test prioritization in CI by learning from execution history cycle by cycle — no manual retraining required. Supervised learning (ANN, DNN, gradient boosting / MART) automates test generation, oracle construction, and failure prediction. Deep learning extends these with scalable regression models (DeepOrder) that use 14 test-execution features to predict priority scores.
 
 # What gains in fault detection are offered:
