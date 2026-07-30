@@ -72,12 +72,12 @@ Screenshots stored in artifacts/ document the search results and citation graph 
 ## How ML is applied:
 Reinforcement learning (Q-learning, actor-critic) automates test prioritization in CI by learning from execution history cycle by cycle — no manual retraining required. Supervised learning (ANN, DNN, gradient boosting / MART) automates test generation, oracle construction, and failure prediction. Deep learning extends these with scalable regression models (DeepOrder) that use 14 test-execution features to predict priority scores.
 
-# What gains in fault detection are offered:
+## What gains in fault detection are offered:
 NAPFD/APFD scores of 0.79–0.94 achieved vs ~0.5 for random ordering (Sharif et al. 2021)
 Pretrained MART achieves optimal test sequence on 80% of subjects vs 50% for original MART — a 60% relative improvement from changing training strategy alone (Zhao et al. 2023)
 RL consistently outperforms all traditional heuristics (random, history-based, coverage-based) across industrial CI datasets (Spieker et al. 2017; Bagherzadeh et al. 2022)
 
-# What gains in efficiency are offered:
+## What gains in efficiency are offered:
 DeepOrder is 50× faster than RETECS (0.5 hrs vs 25 hrs on the Google dataset with 12 million test executions)
 Prediction time under 2.22 seconds per CI cycle — zero delay added to the build process
 ML dramatically reduces manual oracle construction effort (Durelli et al. 2019; Fontes & Gay 2023)
