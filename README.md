@@ -19,14 +19,14 @@ ML techniques span supervised learning, reinforcement learning, and deep learnin
 # Repository Structure
 Seminar_AI_in_Software_Testing/
 ├── artifacts/
-│   ├── searchlog.md                           ← search terms, databases, dates, hit counts
-│   ├── connectedpapers1.jpg                   ← Connected Papers graph — seed from Fontes 2023
-│   ├── connectedpapers2.jpg                   ← Connected Papers graph — seed from Spieker 2017
-│   └── Prompts_evidences_seminar.pdf          ← GenAI prompts used (comprehension only)
+│   ├── searchlog.md                           
+│   ├── connectedpapers1.jpg                   
+│   ├── connectedpapers2.jpg                  
+│   └── Prompts_evidences_seminar.pdf         
 ├── corpus/
-│   └── references.md                          ← all 7 core papers + 3 background papers with DOIs
+│   └── references.md                          
 ├── slides/
-│   └── Seminar_ppt_final_presentation.pdf    ← main deliverable
+│   └── Seminar_ppt_final_presentation.pdf    
 └── README.md
 
 # Methodology
