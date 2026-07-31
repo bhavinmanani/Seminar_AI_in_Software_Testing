@@ -20,13 +20,14 @@ ML techniques span supervised learning, reinforcement learning, and deep learnin
 ```text
 Seminar_AI_in_Software_Testing/
 ├── artifacts/
-│   ├── searchlog.md
-│   ├── connectedpapers_graph.png
-│   ├── search_results_google_scholar.png
-│   ├── search_results_ieee.png
-│   ├── search_results_acm.png
-│   ├── extraction_table.pdf
-│   └── prompts_and_evidence.pdf
+│   ├── paperSearchlog.md
+│   ├── proof1.jpeg
+│   ├── proof2.jpeg
+│   ├── proof3.jpeg
+│   ├── proof4.jpeg
+│   ├── proof5.jpeg
+│   ├── proof6.jpeg
+│   └──  proof7.jpeg
 ├── corpus/
 │   └── references.md
 ├── slides/
