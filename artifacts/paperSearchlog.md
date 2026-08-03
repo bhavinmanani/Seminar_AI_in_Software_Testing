@@ -12,3 +12,5 @@ Snowballing: "Machine Learning Software Testing", "AI Software Testing", "Test C
 Selection criteria: Keep: Peer-reviewed · English · Studies applying ML/AI to software testing (e.g., test case prioritization, test generation, regression testing) · Empirical studies or systematic reviews directly addressing the research question.
 
 Exclude: Studies on fault prediction/debugging only · Non-software testing applications · Editorials, tutorials, vendor reports, duplicates, and non-English publications.
+
+
